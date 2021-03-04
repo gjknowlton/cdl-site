@@ -58,7 +58,7 @@ service:
     # service item loop
     - icon : ion-plane #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Travel
-      content: "I hope to embark on many trips and explore different cultures in my lifetime."
+      content: "I hope to travel and explore different cultures in my lifetime."
 
     # service item loop
     - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
