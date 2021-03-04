@@ -24,15 +24,7 @@ portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
   title : "EXPLORE MY FILMS"
-  content : "
-  I've been interested in film since elementary school.
-
-
-  I have accumulated a lot of film experience; I prefer documentary film.
-
-
-  I also have created films for companies
-  "
+  content : ""
   button:
     enable : true
     label : "Take a look"
