@@ -1,25 +1,25 @@
 ---
-title: "Climate Change's Impact on Agriculture"
-description: "award-winning documentary"
+title: "Gerrymandering"
+description: "Award-winning documentary"
 draft: false
-image : "images/portfolio/work1.jpg"
+image : "images/portfolio/work2.jpg"
 bg_image: "images/featue-bg.jpg"
 category: "Documentary"
 information:
   - label : "Role"
     info : "filmmaker, producer, editor, interviewer"
   - label : "Competitions"
-    info : "3 awards"
+    info : "1 award"
   - label : "Editing software"
     info : "Final Cut Pro X"
   - label : "Date"
-    info : "Spring 2020"
+    info : "Spring 2018"
   - label : "Grade"
-    info : "11"
+    info : "8"
   - label : "Other contributors"
-    info : "Clara Rayburn"
+    info : "Simran Ohri, Alice O'Neal-Freeman"
 ---
 
-## Award-winning Documentary film
+## Gerrymandering film
 
-Add film, talk about awards & notable interviews.
+Add film, talk about awards & notable interviews

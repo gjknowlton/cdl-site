@@ -1,47 +1,32 @@
 ################################ pricing ################################
 pricing:
-  enable : true
+  enable : false
   pricing_table:
     # pricing table loop
     - name : "Basic"
-      price: "$99"
-      content : "Perfect for single freelancers who work by themselves"
+      price: ""
+      content : "none"
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - None
         
     # pricing table loop
-    - name : "Premium"
-      price: "$199"
-      content : "Suitable for small businesses with up to 5 employees"
+    - name : "None"
+      price: ""
+      content : ""
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - None
         
     # pricing table loop
-    - name : "Advance"
-      price: "$299"
-      content : "Suitable for large businesses with unlimited employees"
+    - name : "None"
+      price: ""
+      content : "none"
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - None
         
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "data/*/homepage.yml"
