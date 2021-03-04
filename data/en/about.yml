@@ -1,6 +1,6 @@
 ################################## About #####################################
 about:
-  enable : true
+  enable : false
   image : "images/company/about.jpg"
   title : "Internship with The Nature Conservancy."
   content : "I believe environmental science can help allieviate the climate crisis. 
@@ -11,30 +11,6 @@ about:
     enable : true
     label : "My R Blog"
     link : "https://celestesrblog.netlify.app/"
-
-about:
-  enable : true
-  image : "images/company/about.jpg"
-  title : "Climate-Related Films."
-  content : "I've explored with film as a medium to communicate about environmental issues that I'm passionate about.
-  "
-
-  button:
-    enable : false
-    label : "See my films"
-    link : "https://celestebasken.com/project/"
-    
-about:
-  enable : true
-  image : "images/company/about.jpg"
-  title : "Environmental Activism."
-  content : "I am a team leader for my local hub of the Sunrise Movement, a youth-led campaign to stop the climate crisis and create millions of good jobs in the process
-  "
-
-  button:
-    enable : false
-    label : "Read more about my activism"
-    link : "https://celestebasken.com/blog/"    
     
   #funfacts:
     # funfacts loop

@@ -179,17 +179,17 @@ name = "Academics"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Academics"
   name = "Resume"
   URL = "FAQ"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Academics"
   name = "Scores"
   URL = "pricing"
 
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Academics"
   name = "Diplomas"
   URL = "service"
   
@@ -201,27 +201,27 @@ weight = 6
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "about"
+name = "Environmental Science"
 URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "project"
+name = "Film"
 URL = "project"
 weight = 2
 
 [[Languages.en.menu.footer]]
-name = "Service"
+name = "Diplomas"
 URL = "service"
 weight = 3
 
 [[Languages.en.menu.footer]]
-name = "Pricing"
+name = "Scores"
 URL = "Pricing"
 weight = 4
 
 [[Languages.en.menu.footer]]
-name = "FAQ"
+name = "Resume"
 URL = "FAQ"
 weight = 5
 

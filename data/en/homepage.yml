@@ -14,8 +14,8 @@ banner:
 about:
   enable : true
   title : "Welcome!"
-  description : "Welcome to my portfolio! This website serves as a collection of my academic, extracurricular and general interests."
-  content : "Explore this website and learn more about my interests. If you have any questions, please visit contact."
+  description : "This portfolio serves as a collection of my academic, extracurricular and general interests."
+  content : "Explore this website and learn more about my interests. If you have any questions, please reach out and contact me!"
   image : "images/wrapper-img.png"
 
 
