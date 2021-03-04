@@ -2,14 +2,40 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "My work with The Nature Conservancy."
-  content : "I believe environmental science can help allieviate the climate crisis. Text about my work with TNC."
+  title : "Internship with The Nature Conservancy."
+  content : "I believe environmental science can help allieviate the climate crisis. 
+  Since August 2020 I've had an internship with The Nature Conservancy's LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
+  "
 
   button:
     enable : true
-    label : "See more"
+    label : "My R Blog"
     link : "https://celestesrblog.netlify.app/"
 
+about:
+  enable : true
+  image : "images/company/about.jpg"
+  title : "Climate-Related Films."
+  content : "I've explored with film as a medium to communicate about environmental issues that I'm passionate about.
+  "
+
+  button:
+    enable : false
+    label : "See my films"
+    link : "https://celestebasken.com/project/"
+    
+about:
+  enable : true
+  image : "images/company/about.jpg"
+  title : "Environmental Activism."
+  content : "I am a team leader for my local hub of the Sunrise Movement, a youth-led campaign to stop the climate crisis and create millions of good jobs in the process
+  "
+
+  button:
+    enable : false
+    label : "Read more about my activism"
+    link : "https://celestebasken.com/blog/"    
+    
   #funfacts:
     # funfacts loop
     #- icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -42,44 +68,44 @@ about:
      # count : "20"
       
 ################################ feature #####################################
-features:
-  enable : true
-  title : "More info about Celeste"
-  feature_item:
+#features:
+ # enable : true
+  #title : "More info about Celeste"
+#  feature_item:
     # feature item loop
-    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Me"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+#    - icon : "ion-ios-color-filter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+ #     name : "Me"
+  #    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
     # feature item loop
-    - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Me"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+#    - icon : "ion-ios-unlocked-outline" #ionicon pack v2 : https://ionicons.com/v2/
+ #     name : "Me"
+  #    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
     # feature item loop
-    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Me"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+#    - icon : "ion-ios-game-controller-b-outline" #ionicon pack v2 : https://ionicons.com/v2/
+ #     name : "Me"
+  #    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
     # feature item loop
-    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Me"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+#    - icon : "ion-ios-mic-outline" #ionicon pack v2 : https://ionicons.com/v2/
+ #     name : "Me"
+  #    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
     # feature item loop
-    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Me"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+ #   - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  #    name : "Me"
+   #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
     # feature item loop
-    - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Me"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  #  - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
+   #   name : "Me"
+    #  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
 
 #################################### testimonial & mission vision #######################################
-testimonial:
-  enable : false #changed from true
+#testimonial:
+ # enable : false #changed from true
   # testimonial content comes from "data/*/homepage.yml" file
 
 #mission_vision:

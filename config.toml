@@ -81,7 +81,7 @@ logo_width = "150px"
 description = ""
 author = "Celeste"
 # Contact Information
-mobile = "2025272712"
+# mobile = "2025272712"
 email = "celeste@basken.com"
 location = "DC Metro Area"
 # contact form action
@@ -148,7 +148,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright Celeste Basken 2021 | All Rights Reserved"
+copyright = "Celeste Basken 2021"
 
 
 ######################### english navigation #############################
@@ -190,7 +190,7 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "service"
+  name = "diplomas"
   URL = "service"
   
 [[Languages.en.menu.main]]
