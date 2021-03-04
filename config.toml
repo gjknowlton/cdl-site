@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "/"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Celeste Basken"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -10,7 +10,7 @@ summaryLength = "30"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 ################################# Outputs #################################
 # hugo outputs
@@ -78,12 +78,12 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 logo = "images/logo.png"
 logo_width = "150px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = ""
+author = "Celeste"
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+mobile = "2025272712"
+email = "celeste@basken.com"
+location = "DC Metro Area"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -99,7 +99,7 @@ preloader = "" # use .png , .svg or .gif format
 # Navigation get start button
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Contact Me"
 link = "contact"
 
 # google map
@@ -122,7 +122,7 @@ link = "#"
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.linkedin.com/in/celeste-basken-506b63175/"
 
 [[params.social]]
 icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -201,13 +201,13 @@ weight = 6
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "About"
-URL = "about"
+name = "Film"
+URL = "film"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "Project"
-URL = "project"
+name = "Environment"
+URL = "environment"
 weight = 2
 
 [[Languages.en.menu.footer]]
