@@ -30,23 +30,23 @@ portfolio:
     label : "Take a look"
     link : "project"
 
-
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "I'm a multidisciplinary student."
+  content : "I have academic interest in writing, history, science, Spanish, and more."
+  button:
+    enable : true
+    label : "My interest in environmental science"
+    link : "About"
+    
+    
 ############################# Service ############################
 service:
   enable : true
   # service content comes from "data/*/service.yml" file
 
-
-############################ call to action ###########################
-cta:
-  enable : true
-  bg_image : "images/call-to-action-bg.jpg"
-  title : "I'm a multidisciplinary student who is also passionate about science."
-  content : "Read more about my interests in science"
-  button:
-    enable : true
-    label : "Learn more"
-    link : "About"
 
 ############################# Funfacts ###############################
 #funfacts:

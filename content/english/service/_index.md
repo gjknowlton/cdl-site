@@ -1,6 +1,6 @@
 ---
 title: "Diplomas"
-description: "diplomas and honors"
+description: "Diplomas and honors"
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---

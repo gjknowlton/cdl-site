@@ -11,27 +11,27 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
-      icon : "ion-erlenmeyer-flask"
+    - name : "Communications Arts Program"
+      icon : "ion-ios-book-outline"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "I attend the Communications Arts Program, a competitive selective magnet program."
       
     # featured service item loop
-    - name : "Product Branding"
-      icon : "ion-leaf"
+    - name : "Certificate of Meritorious Service"
+      icon : "ion-android-globe"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "I will recieve the Certificate of Meritorious Service because I have completed over 280 service hours."
       
     # featured service item loop
-    - name : "Game Development"
-      icon : "ion-lightbulb"
+    - name : "Mu Alpha Theta Math Honor Society and National Honor Society"
+      icon : "ion-ios-calculator-outline"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "I am a member of two Honor Societies where we give back to the community through peer tutoring, charity event planning and more."
 
       
 ############################# Service ###############################
 service:
-  enable : true
+  enable : false
   title : "Interests"
   description : "I have a broad range of interests, from academic extracurriculars to lighthearted pastimes. Here are some fun facts about me!"
   service_item:
@@ -77,5 +77,5 @@ service:
       
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "data/*/homepage.yml"

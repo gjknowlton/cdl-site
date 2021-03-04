@@ -159,38 +159,38 @@ URL = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About"
+name = "Environmental Science"
 URL = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Project"
+name = "Film"
 URL = "project"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Blog"
+name = "Politics"
 URL = "blog"
 weight = 4
 
 [[Languages.en.menu.main]]
 weight = 5
-name = "Pages"
+name = "Academics"
 hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "FAQ"
+  name = "Resume"
   URL = "FAQ"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "Pricing"
+  name = "Scores"
   URL = "pricing"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "diplomas"
+  name = "Diplomas"
   URL = "service"
   
 [[Languages.en.menu.main]]
@@ -237,7 +237,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Celeste Basken 2021 | All Rights Reserved"
+copyright = "Celeste Basken 2021"
 
 
 ######################### france navigation #############################
@@ -290,27 +290,27 @@ weight = 6
 
 # footer menu
 [[Languages.fr.menu.footer]]
-name = "About"
+name = "Environmental Science"
 URL = "environmental-science"
 weight = 1
 
 [[Languages.fr.menu.footer]]
-name = "Project"
+name = "Film"
 URL = "film"
 weight = 2
 
 [[Languages.fr.menu.footer]]
-name = "Service"
+name = "Diplomas"
 URL = "diplomas"
 weight = 3
 
 [[Languages.fr.menu.footer]]
-name = "Pricing"
+name = "Scores"
 URL = "scores"
 weight = 4
 
 [[Languages.fr.menu.footer]]
-name = "FAQ"
+name = "Resume"
 URL = "resume"
 weight = 5
 
