@@ -277,16 +277,6 @@
   </url><url>
     <loc>/fr/tags/technology/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/technology/"
-                />
   </url><url>
     <loc>/fr/about/</loc>
     <xhtml:link
@@ -373,16 +363,6 @@
                 />
   </url><url>
     <loc>/fr/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/rio-furniture-1/"
-                />
   </url><url>
     <loc>/fr/project/rio-furniture-2/</loc>
     <xhtml:link

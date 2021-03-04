@@ -148,7 +148,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright Celeste Basken 2021 | All Rights Reserved"
 
 
 ######################### english navigation #############################
@@ -160,17 +160,17 @@ weight = 1
 
 [[Languages.en.menu.main]]
 name = "About"
-URL = "about"
+URL = "environmental-science"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "Project"
-URL = "project"
+URL = "film"
 weight = 3
 
 [[Languages.en.menu.main]]
 name = "Blog"
-URL = "blog"
+URL = "activism-and-politics"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -181,17 +181,17 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "Pages"
   name = "FAQ"
-  URL = "faq"
+  URL = "resume"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
   name = "Pricing"
-  URL = "pricing"
+  URL = "scores"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
-  name = "Service"
-  URL = "service"
+  name = "service"
+  URL = "diplomas"
   
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -201,28 +201,28 @@ weight = 6
 
 # footer menu
 [[Languages.en.menu.footer]]
-name = "Film"
+name = "about"
 URL = "film"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "Environment"
-URL = "environment"
+name = "project"
+URL = "environmental-science"
 weight = 2
 
 [[Languages.en.menu.footer]]
 name = "Service"
-URL = "service"
+URL = "diplomas"
 weight = 3
 
 [[Languages.en.menu.footer]]
 name = "Pricing"
-URL = "pricing"
+URL = "scores"
 weight = 4
 
 [[Languages.en.menu.footer]]
 name = "FAQ"
-URL = "faq"
+URL = "resume"
 weight = 5
 
 [[Languages.en.menu.footer]]
@@ -237,7 +237,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Celeste Basken 2021 | All Rights Reserved"
 
 
 ######################### france navigation #############################
@@ -291,27 +291,27 @@ weight = 6
 # footer menu
 [[Languages.fr.menu.footer]]
 name = "About"
-URL = "about"
+URL = "environmental-science"
 weight = 1
 
 [[Languages.fr.menu.footer]]
 name = "Project"
-URL = "project"
+URL = "film"
 weight = 2
 
 [[Languages.fr.menu.footer]]
 name = "Service"
-URL = "service"
+URL = "diplomas"
 weight = 3
 
 [[Languages.fr.menu.footer]]
 name = "Pricing"
-URL = "pricing"
+URL = "scores"
 weight = 4
 
 [[Languages.fr.menu.footer]]
 name = "FAQ"
-URL = "faq"
+URL = "resume"
 weight = 5
 
 [[Languages.fr.menu.footer]]

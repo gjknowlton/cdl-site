@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/blog-post-1/</loc>
+    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/blog-post-1/"
+                />
+  </url><url>
     <loc>/</loc>
-    <lastmod>2020-03-23T13:05:29+06:00</lastmod>
+    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -13,6 +26,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/"
+                />
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/"
                 />
   </url><url>
     <loc>/faq/</loc>
@@ -119,19 +145,6 @@
                 href="/categories/company-news/"
                 />
   </url><url>
-    <loc>/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/blog-post-1/"
-                />
-  </url><url>
     <loc>/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
@@ -195,19 +208,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/blog/blog-post-6/"
-                />
-  </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/blog/"
                 />
   </url><url>
     <loc>/categories/legacy-support/</loc>
@@ -275,17 +275,42 @@
                 href="/tags/"
                 />
   </url><url>
-    <loc>/tags/technology/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/technology/"
+                href="/fr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/technology/"
+                href="/author/"
+                />
+  </url><url>
+    <loc>/project/climate-ag-film/</loc>
+  </url><url>
+    <loc>/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/service/"
+                />
+  </url><url>
+    <loc>/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/contact/"
                 />
   </url><url>
     <loc>/about/</loc>
@@ -300,28 +325,16 @@
                 href="/about/"
                 />
   </url><url>
-    <loc>/author/</loc>
+    <loc>/project/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/author/"
+                href="/fr/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/author/"
-                />
-  </url><url>
-    <loc>/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
+                href="/project/"
                 />
   </url><url>
     <loc>/author/john-doe/</loc>
@@ -346,42 +359,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/author/mark-dinn/"
-                />
-  </url><url>
-    <loc>/pricing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/pricing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/pricing/"
-                />
-  </url><url>
-    <loc>/project/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/"
-                />
-  </url><url>
-    <loc>/project/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/project/rio-furniture-1/"
                 />
   </url><url>
     <loc>/project/rio-furniture-2/</loc>
@@ -444,16 +421,16 @@
                 href="/project/rio-furniture-6/"
                 />
   </url><url>
-    <loc>/service/</loc>
+    <loc>/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/service/"
+                href="/fr/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/service/"
+                href="/pricing/"
                 />
   </url>
 </urlset>
