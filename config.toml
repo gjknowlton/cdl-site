@@ -9,7 +9,7 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["fr"]
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 ################################# Outputs #################################
@@ -160,17 +160,17 @@ weight = 1
 
 [[Languages.en.menu.main]]
 name = "About"
-URL = "environmental-science"
+URL = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "Project"
-URL = "film"
+URL = "project"
 weight = 3
 
 [[Languages.en.menu.main]]
 name = "Blog"
-URL = "activism-and-politics"
+URL = "blog"
 weight = 4
 
 [[Languages.en.menu.main]]
@@ -181,17 +181,17 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "Pages"
   name = "FAQ"
-  URL = "resume"
+  URL = "FAQ"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
   name = "Pricing"
-  URL = "scores"
+  URL = "pricing"
 
   [[Languages.en.menu.main]]
   parent = "Pages"
   name = "service"
-  URL = "diplomas"
+  URL = "service"
   
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -202,27 +202,27 @@ weight = 6
 # footer menu
 [[Languages.en.menu.footer]]
 name = "about"
-URL = "film"
+URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
 name = "project"
-URL = "environmental-science"
+URL = "project"
 weight = 2
 
 [[Languages.en.menu.footer]]
 name = "Service"
-URL = "diplomas"
+URL = "service"
 weight = 3
 
 [[Languages.en.menu.footer]]
 name = "Pricing"
-URL = "scores"
+URL = "Pricing"
 weight = 4
 
 [[Languages.en.menu.footer]]
 name = "FAQ"
-URL = "resume"
+URL = "FAQ"
 weight = 5
 
 [[Languages.en.menu.footer]]
