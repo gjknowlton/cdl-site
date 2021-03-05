@@ -169,7 +169,7 @@ URL = "project"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Politics"
+name = "Publications"
 URL = "blog"
 weight = 4
 
@@ -258,7 +258,7 @@ URL = "project"
 weight = 3
 
 [[Languages.fr.menu.main]]
-name = "Blog"
+name = "Publications"
 URL = "blog"
 weight = 4
 

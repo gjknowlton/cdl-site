@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Press Conference on Celeste Basken</title>
+    <link>/categories/press-conference/</link>
+    <description>Recent content in Press Conference on Celeste Basken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Celeste Basken 2021</copyright>
+    <lastBuildDate>Wed, 03 Mar 2021 11:07:10 +0600</lastBuildDate><atom:link href="/categories/press-conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunrise Movement Press Conference</title>
+      <link>/blog/sunrise/</link>
+      <pubDate>Wed, 03 Mar 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/blog/sunrise/</guid>
+      <description>I&amp;rsquo;ve been involved with the youth-led Sunrise Movement for two years. Recently, the team that I led within my local hub of the movement convinced our County Council and County Executive to endorse the Federal Green New Deal and call on the Biden Administration and Congress to take a strong stance on climate.</description>
+    </item>
+    
+  </channel>
+</rss>

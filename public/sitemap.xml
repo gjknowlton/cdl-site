@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/activism/</loc>
-    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
+    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
+    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>/blog/ialeconference/</loc>
+    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/internship/</loc>
+    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>/categories/presentation/</loc>
+    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
+    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
   </url><url>
     <loc>/tags/leadership/</loc>
     <lastmod>2021-03-03T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>/categories/press-conference/</loc>
+    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>/tags/speech/</loc>
     <lastmod>2021-03-03T11:07:10+06:00</lastmod>
   </url><url>
     <loc>/tags/sunrise/</loc>
@@ -23,68 +41,37 @@
     <loc>/blog/sunrise/</loc>
     <lastmod>2021-03-03T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>/tags/club/</loc>
     <lastmod>2021-03-02T11:07:10+06:00</lastmod>
   </url><url>
     <loc>/categories/extracurriculars/</loc>
     <lastmod>2021-03-02T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/blog/blog-post-2/</loc>
+    <loc>/blog/mun/</loc>
     <lastmod>2021-03-02T11:07:10+06:00</lastmod>
   </url><url>
     <loc>/tags/mun/</loc>
     <lastmod>2021-03-02T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/tags/advice/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/categories/article/</loc>
+    <lastmod>2020-05-26T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/tags/ai/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/blog/curioussciencewriters/</loc>
+    <lastmod>2020-05-26T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/tags/android/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/tags/journalism/</loc>
+    <lastmod>2020-05-26T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/categories/artificial-intelligence/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/company/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/categories/legacy-support/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/mechine/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/retro/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>/tags/nih/</loc>
+    <lastmod>2020-05-26T11:07:10+06:00</lastmod>
   </url><url>
     <loc>/project/newfilmone/</loc>
   </url><url>
     <loc>/project/newfilmtwo/</loc>
   </url><url>
     <loc>/author/</loc>
+  </url><url>
+    <loc>/author/celestebasken/</loc>
   </url><url>
     <loc>/project/climate-ag-film/</loc>
   </url><url>
@@ -97,8 +84,6 @@
     <loc>/project/</loc>
   </url><url>
     <loc>/project/gerrymanderingcspan/</loc>
-  </url><url>
-    <loc>/author/john-doe/</loc>
   </url><url>
     <loc>/author/mark-dinn/</loc>
   </url><url>

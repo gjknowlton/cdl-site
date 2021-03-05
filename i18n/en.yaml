@@ -9,7 +9,7 @@
 - id: buy_now
   translation: Buy Now
 - id: address_title
-  translation: Stop By For A visit
+  translation: Contact Information
 - id: submit
   translation: Send Message
 - id: all
@@ -19,7 +19,7 @@
 - id: read_more
   translation: Continue Reading
 - id: latest_posts
-  translation: Latest Posts
+  translation: Notable publications
 - id: page_prev
   translation: Prev
 - id: page_next

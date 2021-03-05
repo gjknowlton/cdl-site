@@ -1,6 +1,6 @@
 ---
 title: "Contact me"
-description: "Please visit my LinkedIn"
+description: "How to contact me"
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/capitol.jpg"
 ---

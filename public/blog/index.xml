@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Politics on Celeste Basken</title>
+    <title>Publications on Celeste Basken</title>
     <link>/blog/</link>
-    <description>Recent content in Politics on Celeste Basken</description>
+    <description>Recent content in Publications on Celeste Basken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Celeste Basken 2021</copyright>
-    <lastBuildDate>Wed, 03 Mar 2021 11:07:10 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 11:07:10 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sunrise Movement</title>
+      <title>International Association of Landscape Ecology</title>
+      <link>/blog/ialeconference/</link>
+      <pubDate>Fri, 05 Mar 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/blog/ialeconference/</guid>
+      <description>I am set to give a Poster Presentation at the International Associate of Landscape Ecology, North America, conference in April 2021.
+Orders of Magnitude: Changes in Area Burned Per Year in the NE United States Dropped from Millions to Thousands of Acres Per Year</description>
+    </item>
+    
+    <item>
+      <title>Sunrise Movement Press Conference</title>
       <link>/blog/sunrise/</link>
       <pubDate>Wed, 03 Mar 2021 11:07:10 +0600</pubDate>
       
@@ -19,47 +29,20 @@
     
     <item>
       <title>Model United Nations</title>
-      <link>/blog/blog-post-2/</link>
+      <link>/blog/mun/</link>
       <pubDate>Tue, 02 Mar 2021 11:07:10 +0600</pubDate>
       
-      <guid>/blog/blog-post-2/</guid>
+      <guid>/blog/mun/</guid>
       <description>I love Model United Nations because it combines public policy and public speaking, which are both things I enjoy. In Model United Nations, I research my given country and their history, politics, economy, environment, and anything else relevant to the topic at hand.</description>
     </item>
     
     <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-3/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <title>Exercise Presents Double-Edged Sword in Addressing Opioid Addiction</title>
+      <link>/blog/curioussciencewriters/</link>
+      <pubDate>Tue, 26 May 2020 11:07:10 +0600</pubDate>
       
-      <guid>/blog/blog-post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-4/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>/blog/blog-post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-5/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>/blog/blog-post-5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>/blog/blog-post-6/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>/blog/blog-post-6/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <guid>/blog/curioussciencewriters/</guid>
+      <description>In the summer of 2019 I had the unique opportunity through the Curious Science Writers program to follow a biomedical research study at the National Institutes of Health, interview a scientist behind the study, and then write a journalism article for teenagers about the importance of the research.</description>
     </item>
     
   </channel>

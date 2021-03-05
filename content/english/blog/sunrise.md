@@ -1,11 +1,11 @@
 ---
-title: "Sunrise Movement"
+title: "Sunrise Movement Press Conference"
 date: 2021-03-03T11:07:10+06:00
 author: Celeste Basken
 image : "images/blog/sunrise-post.jpg"
 bg_image: "images/blog/sunrise-post.jpg"
-categories: ["activism"]
-tags: ["leadership","Sunrise"]
+categories: ["Press Conference"]
+tags: ["Leadership","Sunrise", "Speech"]
 description: "description"
 draft: false
 type: "post"
