@@ -2,8 +2,8 @@
 title: "Environmental Science"
 date: 2020-05-26T11:07:10+06:00
 author: Celeste Basken
-image : "images/blog/csw.jpg"
-bg_image: "images/blog/csw.jpg"
+image : "images/bladensburg.jpeg"
+bg_image: "images/bladensburg.jpeg"
 description: "My interest in environmental science."
 draft: false
 ---
