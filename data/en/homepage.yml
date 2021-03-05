@@ -33,7 +33,7 @@ portfolio:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg.jpg"
+  bg_image : "images/bladensburg.jpeg"
   title : "I'm a multidisciplinary student."
   content : "I have academic interest in writing, history, science, Spanish, and more."
   button:

@@ -1,9 +1,11 @@
 ---
 title: "Environmental Science"
-description: "My interest in environmental science"
-subtitle : "My passion for science and climate issues"
-draft: true
-bg_image: "images/featue-bg.jpg"
+date: 2020-05-26T11:07:10+06:00
+author: Celeste Basken
+image : "images/blog/csw.jpg"
+bg_image: "images/blog/csw.jpg"
+description: "My interest in environmental science."
+draft: false
 ---
 
 ### Internship with The Nature Conservancy
