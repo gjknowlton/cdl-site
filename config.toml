@@ -192,11 +192,21 @@ hasChildren = true
   parent = "Academics"
   name = "Diplomas"
   URL = "service"
+
+[[Languages.en.menu.main]]
+weight = 6
+name = "Extracurriculars"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Extracurriculars"
+  name = "Crew"
+  URL = "crew"
   
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 7
 
 
 # footer menu
