@@ -203,6 +203,16 @@ hasChildren = true
   name = "Crew"
   URL = "crew"
   
+  [[Languages.en.menu.main]]
+  parent = "Extracurriculars"
+  name = "Model United Nations"
+  URL = "mun"
+  
+  [[Languages.en.menu.main]]
+  parent = "Extracurriculars"
+  name = "Baking Club"
+  URL = "baking"
+  
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"

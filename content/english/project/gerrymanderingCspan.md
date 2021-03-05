@@ -17,7 +17,7 @@ information:
   - label : "Grade"
     info : "8"
   - label : "Other contributors"
-    info : "Simran Ohri, Alice O'Neal-Freeman"
+    info : "S Ohri, A O'Neal-Freeman"
 ---
 
 ## Gerrymandering film

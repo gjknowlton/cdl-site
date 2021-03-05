@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fried on Celeste Basken</title>
+    <link>/tags/fried/</link>
+    <description>Recent content in Fried on Celeste Basken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Celeste Basken 2021</copyright>
+    <lastBuildDate>Wed, 03 Mar 2021 11:07:10 +0600</lastBuildDate><atom:link href="/tags/fried/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Donuts</title>
+      <link>/baking/donut/</link>
+      <pubDate>Wed, 03 Mar 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/baking/donut/</guid>
+      <description>Donuts</description>
+    </item>
+    
+  </channel>
+</rss>

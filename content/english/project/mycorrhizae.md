@@ -7,7 +7,7 @@ bg_image: "images/featue-bg.jpg"
 category: "Short Video"
 information:
   - label : "Role"
-    info : "filmmaker, producer, editor, animator"
+    info : "producer, editor, animator"
   - label : "Competitions"
     info : "Top 5% internationally"
   - label : "Editing software"

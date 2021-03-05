@@ -8,24 +8,6 @@
     <language>en-us</language>
     <copyright>Celeste Basken 2021</copyright><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Add another film</title>
-      <link>/project/newfilmone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/newfilmone/</guid>
-      <description>Title Info</description>
-    </item>
-    
-    <item>
-      <title>Another film</title>
-      <link>/project/newfilmtwo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/newfilmtwo/</guid>
-      <description>Title Info</description>
-    </item>
-    
-    <item>
       <title>Climate Change&#39;s Impact on Agriculture</title>
       <link>/project/climate-ag-film/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -50,15 +32,6 @@
       
       <guid>/project/mycorrhizae/</guid>
       <description>Mycorrhizal networks film Explain, link film.</description>
-    </item>
-    
-    <item>
-      <title>Yet another film</title>
-      <link>/project/newfilmthree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/project/newfilmthree/</guid>
-      <description>Title Information</description>
     </item>
     
   </channel>

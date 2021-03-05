@@ -6,7 +6,7 @@ image : "images/blog/sunrise-post.jpg"
 bg_image: "images/blog/sunrise-post.jpg"
 categories: ["Press Conference"]
 tags: ["Leadership","Sunrise", "Speech"]
-description: "description"
+description: "I spoke at my County Council's press conference after my team convinced them to endorse the Green New Deal."
 draft: false
 type: "post"
 ---

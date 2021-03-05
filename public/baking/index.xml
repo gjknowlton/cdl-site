@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baking Club on Celeste Basken</title>
+    <link>/baking/</link>
+    <description>Recent content in Baking Club on Celeste Basken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Celeste Basken 2021</copyright>
+    <lastBuildDate>Fri, 05 Mar 2021 11:07:10 +0600</lastBuildDate><atom:link href="/baking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cake</title>
+      <link>/baking/cake/</link>
+      <pubDate>Fri, 05 Mar 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/baking/cake/</guid>
+      <description>Some cakes I&amp;rsquo;ve made</description>
+    </item>
+    
+    <item>
+      <title>Donuts</title>
+      <link>/baking/donut/</link>
+      <pubDate>Wed, 03 Mar 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/baking/donut/</guid>
+      <description>Donuts</description>
+    </item>
+    
+    <item>
+      <title>Cookies</title>
+      <link>/baking/cookies/</link>
+      <pubDate>Tue, 02 Mar 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/baking/cookies/</guid>
+      <description>Cookies</description>
+    </item>
+    
+    <item>
+      <title>Crossaints</title>
+      <link>/baking/crossaints/</link>
+      <pubDate>Tue, 26 May 2020 11:07:10 +0600</pubDate>
+      
+      <guid>/baking/crossaints/</guid>
+      <description>Crossaints are tasty</description>
+    </item>
+    
+  </channel>
+</rss>

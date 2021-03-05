@@ -7,7 +7,7 @@ bg_image: "images/featue-bg.jpg"
 category: "Documentary"
 information:
   - label : "Role"
-    info : "filmmaker, producer, editor, interviewer"
+    info : "producer, editor, interviewer"
   - label : "Competitions"
     info : "3 awards"
   - label : "Editing software"
@@ -17,7 +17,7 @@ information:
   - label : "Grade"
     info : "11"
   - label : "Other contributors"
-    info : "Clara Rayburn"
+    info : "C Rayburn, S Corrales"
 ---
 
 ## Award-winning Documentary film
