@@ -3,9 +3,9 @@ title: "Sunrise Movement"
 date: 2021-03-03T11:07:10+06:00
 author: Celeste Basken
 image : "images/blog/sunrise-post.jpg"
-bg_image: "images/featue-bg.jpg"
-categories: [""]
-tags: ["",""]
+bg_image: "images/blog/sunrise-post.jpg"
+categories: ["activism"]
+tags: ["leadership","Sunrise"]
 description: "description"
 draft: false
 type: "post"
