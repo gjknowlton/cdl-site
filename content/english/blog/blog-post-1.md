@@ -1,8 +1,8 @@
 ---
-title: "Blog post 1"
+title: "Sunrise Movement"
 date: 2021-03-03T11:07:10+06:00
-author: John Doe
-image : "images/blog/blog-post-1.jpg"
+author: Celeste Basken
+image : "images/blog/sunrise-post.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: [""]
 tags: ["",""]
@@ -11,5 +11,4 @@ draft: false
 type: "post"
 ---
 
-
-Here is a blog post by Celeste :D
+I've been involved with the youth-led Sunrise Movement for two years. Recently, the team that I led within my local hub of the movement convinced our County Council and County Executive to endorse the Federal Green New Deal and call on the Biden Administration and Congress to take a strong stance on climate. Below is the press conference where my Sunrise hub announced this achievement, including a speech I gave about the personal impacts the climate crisis has had on my life.

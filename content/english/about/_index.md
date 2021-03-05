@@ -1,6 +1,6 @@
 ---
 title: "Environmental Science"
-description: "current resume"
+description: "My interest in environmental science"
 subtitle : "My passion for science and climate issues"
 draft: false
 bg_image: "images/featue-bg.jpg"
