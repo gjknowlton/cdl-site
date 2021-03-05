@@ -2,8 +2,8 @@
 title: "Gerrymandering"
 description: "Award-winning documentary"
 draft: false
-image : "images/portfolio/work2.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/gerrymandering.jpg"
+bg_image: "images/portfolio/gerrymandering.jpg"
 category: "Documentary"
 information:
   - label : "Role"
@@ -26,4 +26,4 @@ I created [this documentary](https://www.viddler.com/v/778f881e) in spring of 20
 
 The film was awarded an Honorable Mention.
 
-<iframe width="1792" height="840" src="https://www.youtube.com/embed/8WVcMK4w8Qg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1433.6" height="672" src="https://www.youtube.com/embed/8WVcMK4w8Qg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

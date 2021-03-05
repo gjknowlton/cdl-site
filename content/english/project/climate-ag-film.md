@@ -26,4 +26,4 @@ I created [this documentary](http://studentcam.org/ThirdPrize-0422MontgomeryBlai
 
 The film was nominated for Fan Favorite and won Third Place in C-Span Competition. It also won an award in the [Ghandi Brigade Youth Media competition](https://www.youthmediamd.org/media-festival-competition) and was screened at the [All-American High School Film Festival](https://www.hsfilmfest.com/2020-official-selections).
 
-<iframe width="1792" height="840" src="https://www.youtube.com/embed/UuOJ411YnsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1433.6" height="672" src="https://www.youtube.com/embed/UuOJ411YnsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

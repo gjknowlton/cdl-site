@@ -2,8 +2,8 @@
 title: "Mycorrhizal Networks"
 description: "original animated science video"
 draft: false
-image : "images/portfolio/work3.jpg"
-bg_image: "images/featue-bg.jpg"
+image : "images/portfolio/mycorrhizae.jpg"
+bg_image: "images/portfolio/mycorrhizae.jpg"
 category: "Short Video"
 information:
   - label : "Role"
@@ -26,4 +26,4 @@ I created this original animated science video in the spring of 2020 when I had 
 
 My film placed in the top 5% internationally in the [Breakthrough Junior Science Video competition](https://breakthroughjuniorchallenge.org/).
 
-<iframe width="1792" height="840" src="https://www.youtube.com/embed/ViX1_VxR6X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1433.6" height="672" src="https://www.youtube.com/embed/ViX1_VxR6X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
