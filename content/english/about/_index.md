@@ -2,7 +2,7 @@
 title: "Environmental Science"
 description: "My interest in environmental science"
 subtitle : "My passion for science and climate issues"
-draft: false
+draft: true
 bg_image: "images/featue-bg.jpg"
 ---
 

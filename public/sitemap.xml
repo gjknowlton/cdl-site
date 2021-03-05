@@ -2,22 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/baking/</loc>
-    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/cake/</loc>
-    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/baking/cake/</loc>
-    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
     <lastmod>2021-03-05T11:07:10+06:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2021-03-05T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/categories/dessert/</loc>
     <lastmod>2021-03-05T11:07:10+06:00</lastmod>
   </url><url>
     <loc>/blog/ialeconference/</loc>
@@ -38,15 +26,6 @@
     <loc>/tags/</loc>
     <lastmod>2021-03-05T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/baking/donut/</loc>
-    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/doughy/</loc>
-    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/tags/fried/</loc>
-    <lastmod>2021-03-03T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>/tags/leadership/</loc>
     <lastmod>2021-03-03T11:07:10+06:00</lastmod>
   </url><url>
@@ -62,16 +41,7 @@
     <loc>/blog/sunrise/</loc>
     <lastmod>2021-03-03T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/tags/baked/</loc>
-    <lastmod>2021-03-02T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>/tags/club/</loc>
-    <lastmod>2021-03-02T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/categories/cookies/</loc>
-    <lastmod>2021-03-02T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/baking/cookies/</loc>
     <lastmod>2021-03-02T11:07:10+06:00</lastmod>
   </url><url>
     <loc>/categories/extracurriculars/</loc>
@@ -86,12 +56,6 @@
     <loc>/categories/article/</loc>
     <lastmod>2020-05-26T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/categories/breakfast/</loc>
-    <lastmod>2020-05-26T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>/baking/crossaints/</loc>
-    <lastmod>2020-05-26T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>/blog/curioussciencewriters/</loc>
     <lastmod>2020-05-26T11:07:10+06:00</lastmod>
   </url><url>
@@ -101,10 +65,9 @@
     <loc>/tags/nih/</loc>
     <lastmod>2020-05-26T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>/tags/pastry/</loc>
-    <lastmod>2020-05-26T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>/author/</loc>
+  </url><url>
+    <loc>/baking/</loc>
   </url><url>
     <loc>/author/celestebasken/</loc>
   </url><url>
@@ -115,8 +78,6 @@
     <loc>/crew/</loc>
   </url><url>
     <loc>/service/</loc>
-  </url><url>
-    <loc>/about/</loc>
   </url><url>
     <loc>/project/</loc>
   </url><url>

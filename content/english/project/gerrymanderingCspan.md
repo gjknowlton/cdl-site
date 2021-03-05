@@ -22,4 +22,8 @@ information:
 
 ## Gerrymandering film
 
-Add film, talk about awards & notable interviews
+I created [this documentary](https://www.viddler.com/v/778f881e) in spring of 2018 for the C-Span StudentCam documentary competition. My group shot original b-roll, researched historical precedents and interviewed policy experts and a former US Congresswoman. 
+
+The film was awarded an Honorable Mention.
+
+<iframe width="1792" height="840" src="https://www.youtube.com/embed/8WVcMK4w8Qg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -22,4 +22,8 @@ information:
 
 ## Mycorrhizal networks film
 
-Explain, link film.
+I created this original animated science video in the spring of 2020 when I had available time due to the coronavirus pandemic. I interviewed experts, drafted a comprehensive story for a youth audience and edited it together using animated graphics.
+
+My film placed in the top 5% internationally in the [Breakthrough Junior Science Video competition](https://breakthroughjuniorchallenge.org/).
+
+<iframe width="1792" height="840" src="https://www.youtube.com/embed/ViX1_VxR6X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
