@@ -176,21 +176,6 @@ weight = 4
 
 [[Languages.en.menu.main]]
 weight = 5
-name = "Academics"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "Academics"
-  name = "Resume"
-  URL = "FAQ"
-
-  [[Languages.en.menu.main]]
-  parent = "Academics"
-  name = "Diplomas"
-  URL = "service"
-
-[[Languages.en.menu.main]]
-weight = 6
 name = "Extracurriculars"
 hasChildren = true
 
@@ -208,6 +193,21 @@ hasChildren = true
   parent = "Extracurriculars"
   name = "Baking Club"
   URL = "baking"
+  
+[[Languages.en.menu.main]]
+weight = 6
+name = "Academics"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "Academics"
+  name = "Resume"
+  URL = "FAQ"
+
+  [[Languages.en.menu.main]]
+  parent = "Academics"
+  name = "Diplomas"
+  URL = "service"
   
 [[Languages.en.menu.main]]
 name = "Contact"
