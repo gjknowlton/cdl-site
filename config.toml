@@ -186,11 +186,6 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Academics"
-  name = "Scores"
-  URL = "pricing"
-
-  [[Languages.en.menu.main]]
-  parent = "Academics"
   name = "Diplomas"
   URL = "service"
 

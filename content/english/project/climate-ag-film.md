@@ -15,7 +15,7 @@ information:
   - label : "Date"
     info : "Spring 2020"
   - label : "Grade"
-    info : "11"
+    info : "10"
   - label : "Other contributors"
     info : "C Rayburn, S Corrales"
 ---
