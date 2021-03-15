@@ -13,9 +13,9 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "Welcome!"
-  description : "This portfolio serves as a collection of my academic, extracurricular and general interests."
-  content : "Explore this website and learn more about my interests. If you have any questions, please reach out and contact me!"
+  title : "This portfolio serves as a collection of my academic, extracurricular and general interests."
+  description : ""
+  content : "I'm passionate about the intersection between science and communication, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate movements like the Sunrise Movement to hold power to account for issues I care about."
   image : "images/wrapper-img.png"
 
 
