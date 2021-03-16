@@ -1,0 +1,51 @@
+########################### about baking #############################
+about:
+  enable : true
+  title : "When I have free time, I often can be found baking."
+  content : "I'm passionate about agriculture policy from an environmental science perspective, but I also have a personal interest because I've an avid cook and baker."
+  image : "images/baking.jpg"
+
+
+########################## featured baking ############################
+featured_baking:
+  enable : false
+  baking_item:
+    # featured baking item loop
+    - name : "Communications Arts Program"
+      icon : "ion-ios-book-outline"
+      color : "primary"
+      content : "I attend the Communications Arts Program, a competitive selective magnet program."
+      
+    # featured baking item loop
+    - name : "Certificate of Meritorious Service"
+      icon : "ion-android-globe"
+      color : "primary-dark"
+      content : "I will recieve the Certificate of Meritorious Service because I have completed over 280 service hours volunteering in my community."
+      
+    # featured baking item loop
+    - name : "Mu Alpha Theta Math Honor Society and National Honor Society"
+      icon : "ion-ios-calculator-outline"
+      color : "primary-darker"
+      content : "I am a member of two Honor Societies where we give back to the community through peer tutoring, charity event planning and more."
+
+baking_slider:
+    #baking item loop
+    - name : "Name"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+     #baking item loop
+    - name : "Name"
+      image : "images/clients/avater-1.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
+                
+     #baking item loop
+    - name : "Name"
+      image : "images/clients/avater-3.jpg"
+      designation : "CEO-Themefisher"
+      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
+                ideas we feel that our site has unique elements that make us stand out from the crowd."
