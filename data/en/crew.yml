@@ -1,73 +1,29 @@
-############################### Banner ##############################
-banner:
-  enable : false
-  bg_image : "images/slider-bg.jpg"
-  bg_overlay : true
-  title : "Celeste Basken"
-  content : "High school junior, filmmaker, The Nature Conservancy intern, and more."
-  button:
-    enable : true
-    label : "Contact me"
-    link : "contact" #was project
-
-############################# About #################################
+########################### about service #############################
 about:
-  enable : false
-  title : "Welcome!"
-  description : "This portfolio serves as a collection of my academic, extracurricular and general interests."
-  content : "Explore this website and learn more about my interests. If you have any questions, please reach out and contact me!"
-  image : "images/wrapper-img.png"
-
-
-######################### Portfolio ###############################
-portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
-  title : "EXPLORE MY FILMS"
-  content : ""
-  button:
-    enable : true
-    label : "Take a look"
-    link : "project"
+  title : "Environmental blah blah"
+  content : "We'll see"
+  image : "images/bladensburg.jpeg"
 
-############################ call to action ###########################
-cta:
+
+########################## featured service ############################
+featured_crew:
   enable : true
-  bg_image : "images/bladensburg.jpeg"
-  title : "I'm a multidisciplinary student."
-  content : "I have academic interest in writing, history, science, Spanish, and more."
-  button:
-    enable : true
-    label : "My interest in environmental science"
-    link : "About"
-    
-    
-############################# Service ############################
-service:
-  enable : false
-  # service content comes from "data/*/service.yml" file
-
-
-############################# Funfacts ###############################
-
- # testimonial_slider:
-    # testimonial item loop
- #   - name : "Name"
-  #    image : "images/clients/avater-1.jpg"
-    #  designation : "CEO-Themefisher"
-   #   content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-             #   ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
-    # testimonial item loop
-  #  - name : "Name"
-   #   image : "images/clients/avater-1.jpg"
-   #   designation : "CEO-Themefisher"
-   #   content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-             #   ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
-    # testimonial item loop
-  #  - name : "Name"
-    #  image : "images/clients/avater-3.jpg"
-  #    designation : "CEO-Themefisher"
-    #  content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-     #           ideas we feel that our site has unique elements that make us stand out from the crowd."
+  crew_item:
+    # featured service item loop
+    - name : "Communications Arts Program"
+      icon : "ion-ios-book-outline"
+      color : "primary"
+      content : "I attend the Communications Arts Program, a competitive selective magnet program."
+      
+    # featured service item loop
+    - name : "Certificate of Meritorious Service"
+      icon : "ion-android-globe"
+      color : "primary-dark"
+      content : "I will recieve the Certificate of Meritorious Service because I have completed over 280 service hours volunteering in my community."
+      
+    # featured service item loop
+    - name : "Mu Alpha Theta Math Honor Society and National Honor Society"
+      icon : "ion-ios-calculator-outline"
+      color : "primary-darker"
+      content : "I am a member of two Honor Societies where we give back to the community through peer tutoring, charity event planning and more."
