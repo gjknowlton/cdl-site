@@ -20,7 +20,7 @@ featured_service:
     - name : "Certificate of Meritorious Service"
       icon : "ion-android-globe"
       color : "primary-dark"
-      content : "I will recieve the Certificate of Meritorious Service because I have completed over 280 service hours."
+      content : "I will recieve the Certificate of Meritorious Service because I have completed over 280 service hours volunteering in my community."
       
     # featured service item loop
     - name : "Mu Alpha Theta Math Honor Society and National Honor Society"

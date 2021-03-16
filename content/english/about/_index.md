@@ -1,11 +1,10 @@
 ---
-title: "Environmental Science"
 date: 2020-05-26T11:07:10+06:00
-author: Celeste Basken
+title: "Environmental Science"
 image : "images/bladensburg.jpeg"
 bg_image: "images/bladensburg.jpeg"
 description: "My interest in environmental science."
-draft: true
+draft: false
 ---
 
 ### Internship with The Nature Conservancy

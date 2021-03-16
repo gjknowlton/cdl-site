@@ -1,10 +1,10 @@
 ################################## About #####################################
 about:
-  enable : false
+  enable : true
   image : "images/company/about.jpg"
   title : "Internship with The Nature Conservancy."
   content : "I believe environmental science can help allieviate the climate crisis. 
-  Since August 2020 I've had an internship with The Nature Conservancy's LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
+  Since August 2020 I have had an internship with The Nature Conservancy's LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
   "
 
   button:

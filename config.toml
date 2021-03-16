@@ -227,13 +227,13 @@ URL = "project"
 weight = 2
 
 [[Languages.en.menu.footer]]
-name = "Diplomas"
-URL = "service"
+name = "Publications"
+URL = "blog"
 weight = 3
 
 [[Languages.en.menu.footer]]
-name = "Scores"
-URL = "Pricing"
+name = "Diplomas"
+URL = "service"
 weight = 4
 
 [[Languages.en.menu.footer]]
