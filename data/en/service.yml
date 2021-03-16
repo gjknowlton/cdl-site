@@ -1,9 +1,9 @@
 ########################### about service #############################
 about:
   enable : false
-  title : "Environmental blah blah"
-  content : "We'll see"
-  image : "images/bladensburg.jpeg"
+  title : "I'm a varsity athlete on crew"
+  content : "My high school's crew team mainly sweep rows in boats of 8 students. During the coronavirus pandemic, I've also learned to scull in an individual boat. I love crew because it's inherently a team sport that fosters leadership and teamwork. Some of my best memories are from the Bladensburg boathouse on the Anacostia river where we row. My varsity crew team trains every season and competes in regattas along the East Coast."
+  image : "images/backgrounds/crew.jpeg"
 
 
 ########################## featured service ############################
