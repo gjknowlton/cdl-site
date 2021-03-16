@@ -11,6 +11,19 @@ about:
     enable : true
     label : "My R Blog"
     link : "https://celestesrblog.netlify.app/"
+
+about:
+  enable : true
+  image : "images/company/about.jpg"
+  title : "Something else."
+  content : "I believe environmental science can help allieviate the climate crisis. 
+  Since August 2020 I have had an internship with The Nature Conservancy's LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
+  "
+
+  button:
+    enable : true
+    label : "BUTTON"
+    link : "https://celestesrblog.netlify.app/"
     
   #funfacts:
     # funfacts loop
