@@ -1,6 +1,6 @@
 ########################### about service #############################
 about:
-  enable : true
+  enable : false
   title : "Environmental blah blah"
   content : "We'll see"
   image : "images/bladensburg.jpeg"
