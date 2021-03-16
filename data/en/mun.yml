@@ -1,0 +1,29 @@
+########################### about mun #############################
+about:
+  enable : true
+  title : "I'm a delegate in my school's Model United Nations Team."
+  content : "Blah blah mun."
+  image : "images/blog/mun.jpg"
+
+
+########################## featured mun ############################
+featured_mun:
+  enable : false
+  mun_item:
+    # featured mun item loop
+    - name : "Communications Arts Program"
+      icon : "ion-ios-book-outline"
+      color : "primary"
+      content : "I attend the Communications Arts Program, a competitive selective magnet program."
+      
+    # featured mun item loop
+    - name : "Certificate of Meritorious Service"
+      icon : "ion-android-globe"
+      color : "primary-dark"
+      content : "I will recieve the Certificate of Meritorious Service because I have completed over 280 service hours volunteering in my community."
+      
+    # featured service item loop
+    - name : "Mu Alpha Theta Math Honor Society and National Honor Society"
+      icon : "ion-ios-calculator-outline"
+      color : "primary-darker"
+      content : "I am a member of two Honor Societies where we give back to the community through peer tutoring, charity event planning and more."
