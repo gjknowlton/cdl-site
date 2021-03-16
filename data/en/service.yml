@@ -1,9 +1,9 @@
 ########################### about service #############################
 about:
-  enable : false
-  title : "Creative UX/UI Design Agency"
-  content : "Hopefully this doesn't work."
-  image : "images/company/company-group-pic.jpg"
+  enable : true
+  title : "Environmental blah blah"
+  content : "We'll see"
+  image : "images/bladensburg.jpeg"
 
 
 ########################## featured service ############################
