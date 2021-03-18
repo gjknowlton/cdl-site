@@ -4,8 +4,8 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.mun.mun.enable }}
-{{ with $data.mun.mun }}
+{{ if $data.mun.about.enable }}
+{{ with $data.mun.about }}
 <section class="mun section">
   <div class="container">
     <div class="row">
@@ -40,25 +40,16 @@
 {{ end }}
 {{ end }}
 
-{{ if $data.mun.features.enable }}
-{{ with $data.mun.features }}
-<section class="mun-feature bg-dark section dark-service">
-  <div class="container">
-    {{ with .title }}
+{{ if $data.mun.featured_mun.enable }}
+{{ with $data.mun.featured_mun }}
+<section class="mun-arrow">
+  <div class="container-fluid">
     <div class="row">
-      <div class="col-md-12">
-        <div class="title">
-          <h2>{{ . | markdownify }}</h2>
-        </div>
-      </div>
-    </div>
-    {{ end }}
-    <div class="row">
-      {{ range .feature_item }}
-      <div class="col-md-4">
-        <div class="service-item">
+      {{ range .mun_item }}
+      <div class="col-md-4 bg-primary bg-{{ .color }}">
+        <div class="block">
           <i class="{{ .icon }}"></i>
-          <h4>{{ .name | markdownify }}</h4>
+          <h3>{{ .name | markdownify }}</h3>
           <p>{{ .content | markdownify }}</p>
         </div>
       </div>
@@ -69,52 +60,11 @@
 {{ end }}
 {{ end }}
 
-<section class="testimonial section-sm">
-  <div class="container">
-    <div class="row">
-      {{ if $data.mun.testimonial.enable }}
-      <div class="col-md-6">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            {{ range $data.homepage.funfacts.testimonial_slider }}
-            <div>
-              <i class="ion-quote"></i>
-              <p>"{{ .content | markdownify }}"</p>
-              <div class="user">
-                <img src="{{ .image | relURL }}" alt="client">
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
-              </div>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-      {{ end }}
-
-      {{ if $data.mun.mission_vision.enable }}
-      {{ with $data.mun.mission_vision }}
-      <div class="col-md-6">
-        <div class="tabCommon">
-          <ul class="nav nav-tabs">
-            {{ range $index, $elements := .tabs }}
-            <li {{ if eq $index 0}} class="active" {{ end }}><a href="#{{.name | urlize}}"
-                data-toggle="tab">{{.name}}</a></li>
-            {{ end }}
-          </ul>
-          <div class="tab-content">
-            {{ range $index, $elements := .tabs }}
-            <div id="{{.name | urlize}}" class="tab-pane fade {{ if eq $index 0}} active in {{ end }}">
-              <p>{{ .content | markdownify }}</p>
-            </div>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-      {{ end }}
-      {{ end }}
-    </div>
-  </div>
-</section>
+<!-- mun -->
+{{ if $data.mun.mun.enable }}
+{{ partial "mun.html" . }}
+{{ end }}
+<!-- /mun -->
 
 <!-- Call to action -->
 {{ if $data.mun.cta.enable }}
