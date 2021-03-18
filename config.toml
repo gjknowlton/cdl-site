@@ -201,11 +201,6 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Academics"
-  name = "Resume"
-  URL = "FAQ"
-
-  [[Languages.en.menu.main]]
-  parent = "Academics"
   name = "Diplomas"
   URL = "service"
   
@@ -237,14 +232,9 @@ URL = "service"
 weight = 4
 
 [[Languages.en.menu.footer]]
-name = "Resume"
-URL = "FAQ"
-weight = 5
-
-[[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
 
 ################################ France Language ########################
 [Languages.fr]
@@ -282,11 +272,6 @@ weight = 4
 weight = 5
 name = "Pages"
 hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
 
   [[Languages.fr.menu.main]]
   parent = "Pages"

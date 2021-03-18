@@ -1,26 +1,22 @@
-########################### about mun #############################
+########################### about resume #############################
 about:
   enable : true
-  title : "I'm an officer of my school's Model Unitd Nations team."
-  content : "I love Model United Nations because it perfectly combines history, politics, debate, and cooperation. Through Model UN I've learned the fascinating history of countries across the world and discovered how to think about politics and the role of global citizens. Public speaking and leadership are essential to Model UN, and I've found the conferences have emboldened me as a speaker and organizer."
-  image : "images/blog/mun.jpg"
-  
-button:
-    enable : true
-    label : "My R Blog"
-    link : "https://celestesrblog.netlify.app/"
+  title : "Current Resume"
+  content : "Download my resume."
+  image : "images/backgrounds/resume.jpg"
 
-########################## featured mun ############################
-featured_mun:
+
+########################## featured resume ############################
+featured_resume:
   enable : false
-  mun_item:
-    # featured mun item loop
+  resume_item:
+    # featured resume item loop
     - name : "Communications Arts Program"
       icon : "ion-ios-book-outline"
       color : "primary"
       content : "I attend the Communications Arts Program, a competitive selective magnet program."
       
-    # featured mun item loop
+    # featured resume item loop
     - name : "Certificate of Meritorious Service"
       icon : "ion-android-globe"
       color : "primary-dark"

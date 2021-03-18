@@ -1,8 +1,9 @@
 ########################### about baking #############################
 about:
   enable : true
-  title : "When I have free time, I often can be found baking."
-  content : "I'm passionate about agriculture policy from an environmental science perspective, but I also have a personal interest because I've an avid cook and baker."
+  title : "When I have free time, I often can be found baking or cooking."
+  content : "I'm passionate about agriculture policy from an environmental science perspective, but I also have a personal interest because I've an avid cook and baker.
+  I joined baking club to be around a community of bakers and discuss techniques and achievements."
   image : "images/baking.jpg"
 
 
