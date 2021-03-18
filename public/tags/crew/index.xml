@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Club on Celeste Basken</title>
-    <link>/tags/club/</link>
-    <description>Recent content in Club on Celeste Basken</description>
+    <title>Crew on Celeste Basken</title>
+    <link>/tags/crew/</link>
+    <description>Recent content in Crew on Celeste Basken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Celeste Basken 2021</copyright>
-    <lastBuildDate>Tue, 02 Mar 2021 11:07:10 +0600</lastBuildDate><atom:link href="/tags/club/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Mar 2021 11:07:10 +0600</lastBuildDate><atom:link href="/tags/crew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crew Mid-Atlantic Erg Sprints 2nd Place</title>
       <link>/blog/crewergsprints/</link>
@@ -16,16 +16,6 @@
       <guid>/blog/crewergsprints/</guid>
       <description>I placed second in the 500m sprint in the lightweight category at the Mid-Atlantic Erg Sprints 2020.
 This winter season crew competition involves rowing on an ergometer stationary rowing machine. Read more about my experience on Blair High School crew here.</description>
-    </item>
-    
-    <item>
-      <title>Model United Nations Award</title>
-      <link>/blog/mun/</link>
-      <pubDate>Tue, 02 Mar 2021 11:07:10 +0600</pubDate>
-      
-      <guid>/blog/mun/</guid>
-      <description>I was awarded Best Delegate at the Garfield Model United Nations Conference in Fall of 2019.
-Read more about my involvement with Model UN here.</description>
     </item>
     
   </channel>

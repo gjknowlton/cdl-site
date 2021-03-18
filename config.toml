@@ -82,7 +82,7 @@ logo_width = "150px"
 description = ""
 author = "Celeste"
 # Contact Information
-# mobile = "2025272712"
+mobile = "2025272712"
 email = "celeste@basken.com"
 location = "DC Metro Area"
 # contact form action
@@ -117,30 +117,14 @@ enable = false
 expire_days = 2
 
 ############################# social site ########################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
 
 [[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://www.linkedin.com/in/celeste-basken-506b63175/"
 
 [[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
+icon = "ion-social-github" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://github.com/celestebasken"
 
 ################################ English Language ########################
 [Languages.en]
