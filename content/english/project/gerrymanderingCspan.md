@@ -1,6 +1,6 @@
 ---
 title: "Gerrymandering"
-description: "Award-winning documentary"
+description: "Award-winning documentary."
 draft: false
 image : "images/portfolio/gerrymandering.jpg"
 bg_image: "images/portfolio/gerrymandering.jpg"

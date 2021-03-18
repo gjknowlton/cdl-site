@@ -2,7 +2,7 @@
 about:
   enable : true
   title : "Current Resume"
-  content : "[Download my resume.](www.google.com)"
+  content : ""
   image : "images/backgrounds/blair.jpg"
 
 

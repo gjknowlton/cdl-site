@@ -1,6 +1,6 @@
 ---
 title: "Mycorrhizal Networks"
-description: "original animated science video"
+description: "Original animated science video."
 draft: false
 image : "images/portfolio/mycorrhizae.jpg"
 bg_image: "images/portfolio/mycorrhizae.jpg"

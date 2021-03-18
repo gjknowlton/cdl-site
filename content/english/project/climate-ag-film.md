@@ -1,6 +1,6 @@
 ---
 title: "Climate Change's Impact on Agriculture"
-description: "award-winning documentary"
+description: "Award-winning documentary."
 draft: false
 image : "images/portfolio/mcgovern.jpg"
 bg_image: "images/portfolio/mcgovern.jpg"
