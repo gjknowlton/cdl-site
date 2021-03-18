@@ -15,7 +15,9 @@ about:
   enable : true
   title : "This portfolio serves as a collection of my academic, extracurricular and general interests."
   description : ""
-  content : "I'm passionate about the intersection between science and communication, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. \n I've found myself draw into youth climate movements like the Sunrise Movement to hold power to account for issues I care about."
+  content : "I'm passionate about the intersection between science and communication, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate movements like the Sunrise Movement to hold power to account for issues I care about.
+  
+  I created this website in the computer programming language R using a Hugo Blogdown theme. To read more about my programming experience, please check out the [environmental science page.](https://celestebasken.com/about/)"
   image : "images/wrapper-img.png"
 
 
