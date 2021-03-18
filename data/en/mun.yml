@@ -7,7 +7,7 @@ about:
   
 button:
     enable : true
-    label : "My R Blog"
+    label : "My button"
     link : "https://celestesrblog.netlify.app/"
 
 ########################## featured mun ############################

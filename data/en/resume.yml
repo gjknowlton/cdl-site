@@ -2,8 +2,8 @@
 about:
   enable : true
   title : "Current Resume"
-  content : "Download my resume."
-  image : "images/bladensburg.jpeg"
+  content : "[Download my resume.](www.google.com)"
+  image : "images/backgrounds/blair.jpg"
 
 
 ########################## featured resume ############################

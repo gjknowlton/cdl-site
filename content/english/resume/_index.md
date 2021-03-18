@@ -2,5 +2,5 @@
 title: "Resume"
 description: ""
 draft: false
-bg_image: "images/backgrounds/crew.jpg"
+bg_image: "images/backgrounds/blair.jpg"
 ---

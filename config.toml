@@ -237,9 +237,14 @@ URL = "service"
 weight = 4
 
 [[Languages.en.menu.footer]]
+name = "Resume"
+URL = "resume"
+weight = 5
+
+[[Languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 5
+weight = 6
 
 ################################ France Language ########################
 [Languages.fr]
