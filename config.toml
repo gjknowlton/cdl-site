@@ -201,6 +201,11 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Academics"
+  name = "Resume"
+  URL = "resume"
+  
+  [[Languages.en.menu.main]]
+  parent = "Academics"
   name = "Diplomas"
   URL = "service"
   
