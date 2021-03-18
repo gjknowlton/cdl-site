@@ -1,6 +1,6 @@
 ########################### about resume #############################
 about:
-  enable : true
+  enable : false
   title : "Current Resume"
   content : ""
   image : "images/backgrounds/blair.jpg"

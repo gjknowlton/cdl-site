@@ -1,6 +1,6 @@
 ---
 title: "Diplomas"
-description: "Diplomas and honors"
+description: ""
 draft: false
 bg_image: "images/backgrounds/blair.jpg"
 ---
