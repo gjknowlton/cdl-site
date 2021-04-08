@@ -33,7 +33,7 @@ featured_service:
 service:
   enable : false
   title : "Interests"
-  description : "I have a broad range of interests, from academic extracurriculars to lighthearted pastimes. Here are some fun facts about me!"
+  description : "I have a broad range of interests, from academic extracurriculars to lighthearted pastimes."
   service_item:
     # service item loop
     - icon : ion-erlenmeyer-flask #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
