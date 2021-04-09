@@ -158,95 +158,42 @@
 </section>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<section class="testimonial">
+<section class="baking-picture section">
   <div class="container">
     <div class="row">
-      <div class="section-title text-center">
-        <h2>Baked goods</h2>
-        <p>Here are some baked goods</p>
-      </div>
-    </div>
-    <div class="row">
       <div class="col-md-6">
-        <div class="block">
-          <ul class="counter-box clearfix">
-            
-            <li class="counter-item">
-              <i class="ion-ios-chatboxes-outline"></i>
-              <h4 class="count" data-count="12">0</h4>
-              <span>Years baking</span>
-            </li>
-            
-            <li class="counter-item">
-              <i class="ion-ios-glasses-outline"></i>
-              <h4 class="count" data-count="23">0</h4>
-              <span>Cakes</span>
-            </li>
-            
-            <li class="counter-item">
-              <i class="ion-ios-compose-outline"></i>
-              <h4 class="count" data-count="38">0</h4>
-              <span>Cookies</span>
-            </li>
-            
-            <li class="counter-item">
-              <i class="ion-ios-timer-outline"></i>
-              <h4 class="count" data-count="14">0</h4>
-              <span>Breads</span>
-            </li>
-            
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-5 col-md-offset-1">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            
-            <div>
-              <i class="ion-android-happy"></i>
-              <p>""</p>
-              <div class="user">
-                <img src="/images/clients/claraCake.jpeg" alt="client">
-                <p><span>Cake</span> Basic vanilla buttercream.</p>
-              </div>
-            </div>
-            
-            <div>
-              <i class="ion-android-happy"></i>
-              <p>""</p>
-              <div class="user">
-                <img src="/images/clients/bread.jpg" alt="client">
-                <p><span>Sourdough bread</span> Multigrain from my starter.</p>
-              </div>
-            </div>
-            
-            <div>
-              <i class="ion-android-happy"></i>
-              <p>""</p>
-              <div class="user">
-                <img src="/images/clients/teaSandwiches.jpeg" alt="client">
-                <p><span>Tea Sandwiches</span> Mini fancy lunch.</p>
-              </div>
-            </div>
-            
-          </div>
-        </div>
-      </div>
+<title>Baked Goods</title>
+      <script type = "text/javascript">
+          function displayNextImage() {
+              x = (x === images.length - 1) ? 0 : x + 1;
+              document.getElementById("img").src = images[x];
+          }
+
+          function displayPreviousImage() {
+              x = (x <= 0) ? images.length - 1 : x - 1;
+              document.getElementById("img").src = images[x];
+          }
+
+          function startTimer() {
+              setInterval(displayNextImage, 3000);
+          }
+
+          var images = [], x = -1;
+          images[0] = "images/clients/bread.jpg";
+          images[1] = "images/clients/teaSandwiches.jpeg";
+          images[2] = "claraCake.jpeg";
+      </script>
+  
+
+   <body onload = "startTimer()">
+       <img id="img" src="startpicture.jpg"/>
+       <button type="button" onclick="displayPreviousImage()">Previous</button>
+       <button type="button" onclick="displayNextImage()">Next</button>
+</div>
     </div>
   </div>
 </section>
+
 
 
 
