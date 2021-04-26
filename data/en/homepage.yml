@@ -4,7 +4,7 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "Celeste Basken"
-  content : "High school junior, filmmaker, The Nature Conservancy intern, and more."
+  content : "High school junior, executive producer of my high school's film program, The Nature Conservancy intern, environmental activist and more."
   button:
     enable : true
     label : "Contact me"

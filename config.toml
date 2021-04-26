@@ -165,6 +165,11 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "Extracurriculars"
+  name = "Sunrise"
+  URL = "sunrise"
+
+  [[Languages.en.menu.main]]
+  parent = "Extracurriculars"
   name = "Crew"
   URL = "crew"
   
