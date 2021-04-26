@@ -97,6 +97,8 @@
   </url><url>
     <loc>/project/gerrymanderingcspan/</loc>
   </url><url>
+    <loc>/code/</loc>
+  </url><url>
     <loc>/author/mark-dinn/</loc>
   </url><url>
     <loc>/mun/</loc>
@@ -104,7 +106,5 @@
     <loc>/project/mycorrhizae/</loc>
   </url><url>
     <loc>/resume/</loc>
-  </url><url>
-    <loc>/code/</loc>
   </url>
 </urlset>

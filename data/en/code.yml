@@ -2,11 +2,11 @@
 about:
   enable : true
   title : "How I made this website"
-  content : "R"
-  image : "images/blog/sunrise-post.jpg"
+  content : "I made this website in R using the Hugo Blogdown package and [Themefisher's Airspace theme](https://github.com/themefisher/airspace-hugo)."
+  image : ""
 
 picture:
-  enable : true
+  enable : false
 
 
 ########################## featured baking ############################
