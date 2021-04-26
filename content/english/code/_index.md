@@ -1,5 +1,5 @@
 ---
-title: "Environmental Activism in the Sunrise Movement"
+title: "Sunrise"
 description: ""
 draft: false
 bg_image: "images/blog/sunrise-post.jpg"
