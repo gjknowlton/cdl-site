@@ -2,7 +2,7 @@
 title: "Mycorrhizal Networks"
 description: "Original animated science video."
 draft: false
-image : "images/portfolio/mycorrhizae.jpg"
+image : "images/portfolio/squareMycorrhizae.jpg"
 bg_image: "images/portfolio/mycorrhizae.jpg"
 category: "Short Video"
 information:

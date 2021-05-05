@@ -21,4 +21,4 @@ information:
 
 I created this fun and professional promotional video for CDBC to advertise their summer camp session. I spent several days filming the campers practicing and scrimmaging, then quickly edited together the film to show at the end of the session as a recap.
 
-<iframe width="1194.6" height="560" src="https://youtu.be/XwDVjtCF9ew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1194.6" height="560" src="https://www.youtube.com/watch?v=XwDVjtCF9ew&t=468s&ab_channel=CDBCBasketballClinic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

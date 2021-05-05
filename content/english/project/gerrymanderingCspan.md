@@ -2,7 +2,7 @@
 title: "Gerrymandering"
 description: "Award-winning documentary."
 draft: false
-image : "images/portfolio/gerrymandering.jpg"
+image : "images/portfolio/squaregerry.jpg"
 bg_image: "images/portfolio/gerrymandering.jpg"
 category: "Documentary"
 information:
