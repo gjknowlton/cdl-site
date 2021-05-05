@@ -8,12 +8,30 @@
     <language>en-us</language>
     <copyright>Celeste Basken 2021</copyright><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Brown v. Board of Education</title>
+      <link>/project/brownvboard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/brownvboard/</guid>
+      <description>Award-winning documentary about educational inequality I co-created this film which won first place at the Montgomery County National History Day competition in 2018. It discusses how racially divided American schools are today, despite the promises of the landmark Supreme Court ruling Brown v.</description>
+    </item>
+    
+    <item>
+      <title>CDBC Basketball Camp Film</title>
+      <link>/project/cdbc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/cdbc/</guid>
+      <description>Promotional film for basketball summer camp I created this fun and professional promotional video for CDBC to advertise their summer camp session. I spent several days filming the campers practicing and scrimmaging, then quickly edited together the film to show at the end of the session as a recap.</description>
+    </item>
+    
+    <item>
       <title>Climate Change&#39;s Impact on Agriculture</title>
       <link>/project/climate-ag-film/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/project/climate-ag-film/</guid>
-      <description>Award-winning climate and agriculture film I created this documentary in spring of 2020 for the C-Span StudentCam documentary competition. My group shot original b-roll, conducted investigative research and interviewed farmers, policy experts and a sitting US Congressman.</description>
+      <description>Award-winning climate and agriculture film I co-created this documentary in spring of 2020 for the C-Span StudentCam documentary competition. My group shot original b-roll, conducted investigative research and interviewed farmers, policy experts and a sitting US Congressman.</description>
     </item>
     
     <item>
@@ -32,6 +50,15 @@
       
       <guid>/project/mycorrhizae/</guid>
       <description>Mycorrhizal networks film I created this original animated science video in the spring of 2020 when I had available time due to the coronavirus pandemic. I interviewed experts, drafted a comprehensive story for a youth audience and edited it together using animated graphics.</description>
+    </item>
+    
+    <item>
+      <title>SilverLens Film Group Producer</title>
+      <link>/project/producer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/producer/</guid>
+      <description>Promotional film for basketball summer camp I created this fun and professional promotional video for CDBC to advertise their summer camp session. I spent several days filming the campers practicing and scrimmaging, then quickly edited together the film to show at the end of the session as a recap.</description>
     </item>
     
   </channel>

@@ -81,6 +81,10 @@
   </url><url>
     <loc>/baking/</loc>
   </url><url>
+    <loc>/project/brownvboard/</loc>
+  </url><url>
+    <loc>/project/cdbc/</loc>
+  </url><url>
     <loc>/author/celestebasken/</loc>
   </url><url>
     <loc>/project/climate-ag-film/</loc>
@@ -106,5 +110,7 @@
     <loc>/project/mycorrhizae/</loc>
   </url><url>
     <loc>/resume/</loc>
+  </url><url>
+    <loc>/project/producer/</loc>
   </url>
 </urlset>
