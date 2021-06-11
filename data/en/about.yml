@@ -6,11 +6,11 @@ about:
   content : "I believe effective data visualization has the power to change minds and I'm driven by the urgency of environmental issues. 
   Since August 2020 I've had an internship with The Nature Conservancy's LANDFIRE team, 
   creating data visualizations in the programming language R with wildfire prevalence data.
-  Skills in R
-○ Create ggplot and interactive leaflet choropleth maps
-○ Create bar, lollipop, and sankey charts, among others
-○ Parameterize charts to create multiple iterations
-○ Sort and wrangle data"
+  \n Skills in R
+\n ○ Create ggplot and interactive leaflet choropleth maps
+\n ○ Create bar, lollipop, and sankey charts, among others
+\n ○ Parameterize charts to create multiple iterations
+\n ○ Sort and wrangle data"
 
   button:
     enable : true
