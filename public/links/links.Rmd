@@ -1,17 +1,15 @@
 ---
 title: "Celeste Basken"
-image: "tobi.jpg"
+image: "wrapper-img.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:celeste.basken@gmail.com"
+  - label: Join Sunrise Silver Spring!
+    url: "https://smvmt.org/ss-sign-up"
+  - label: Read the news
+    url: "https://www.nytimes.com/"
+  - label: BNC
+    url: "https://bnconline.net/"
 output:
   postcards::jolla
 ---
  
-Check out these swankified links
+Important links!
