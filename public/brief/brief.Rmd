@@ -1,0 +1,15 @@
+---
+title: "Celeste Basken"
+image: "celeste.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/celeste-basken-506b63175/"
+  - label: Email
+    url: "mailto:celeste.basken@gmail.com"
+  - label: Full website
+    url: "https://celestebasken.com/"
+output:
+  postcards::jolla
+---
+ 
+ I'm Celeste, a high school junior, the executive producer of my high school's film program, an intern with The Nature Conservancy, an environmental activist, and more. I'm interested in the intersection between environmental science and policy, especially with a focus on agriculture policy. I'm also a Principal's Honor Roll student in a competitive Communications Arts magnet program and a varsity athlete. Please click on full website to learn more about me and get in touch!
