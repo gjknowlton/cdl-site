@@ -12,4 +12,4 @@ output:
   postcards::jolla
 ---
  
- I'm Celeste, a high school junior, the executive producer of my high school's film program, an intern with The Nature Conservancy, an environmental activist, and more. I'm interested in the intersection between environmental science and policy, especially with a focus on agriculture policy. I'm also a Principal's Honor Roll student in a competitive Communications Arts magnet program and a varsity athlete. Please click on full website to learn more about me and get in touch!
+ I'm Celeste, a high school junior, the executive producer of my high school's film program, an intern with The Nature Conservancy, an environmental activist, and more. I'm interested in the intersection between environmental science and policy, especially with a focus on agriculture policy. I'm also a Principal's Honor Roll student in a competitive Communications Arts magnet program and a varsity athlete. Please click on 'full website' below to learn more about me and get in touch!
