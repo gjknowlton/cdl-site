@@ -1,15 +1,16 @@
 ---
-title: "Celeste Basken"
-image: "wrapper-img.png"
+title: "Celeste's links"
+image: "celeste.jpg"
 links:
   - label: Join Sunrise Silver Spring!
     url: "https://smvmt.org/ss-sign-up"
-  - label: Read the news
+  - label: Read the news (please not Instagram graphics)
     url: "https://www.nytimes.com/"
   - label: BNC
     url: "https://bnconline.net/"
+  - label: My website
+    url: "https://celestebasken.com/"
 output:
   postcards::jolla
 ---
  
-Important links!
