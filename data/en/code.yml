@@ -2,7 +2,7 @@
 about:
   enable : true
   title : "How I made this website"
-  content : "I made this website in R using the Hugo Blogdown package and [Themefisher's Airspace theme](https://github.com/themefisher/airspace-hugo)."
+  content : "I made this website independently in the programming language R using the Hugo Blogdown package and [Themefisher's Airspace theme](https://github.com/themefisher/airspace-hugo). I don't profess to be a web development expert, but I've also learned a lot about HTML and CSS in the process."
   image : ""
 
 picture:

@@ -5,24 +5,30 @@ about:
   title : "Internship with The Nature Conservancy."
   content : "I believe effective data visualization has the power to change minds and I'm driven by the urgency of environmental issues. 
   Since August 2020 I've had an internship with The Nature Conservancy's LANDFIRE team, 
-  creating data visualizations in the programming language R with wildfire prevalence data. \n
-  \n
- \n "
+  creating data visualizations in the programming language R with wildfire prevalence data.
+  Skills in R
+○ Create ggplot and interactive leaflet choropleth maps
+○ Create bar, lollipop, and sankey charts, among others
+○ Parameterize charts to create multiple iterations
+○ Sort and wrangle data"
 
   button:
     enable : true
-    label : "My R Blog"
+    label : "Check out my R Blog"
     link : "https://celestesrblog.netlify.app/"
 
 ################################## Crew #####################################
 
-crew:
+TNC:
   enable : true
   image : "images/company/about.jpg"
   title : "Something else."
-  content : "I believe environmental science can help allieviate the climate crisis. 
-  Since August 2020 I have had an internship with The Nature Conservancy's LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
-  "
+  content : "I believe effective data visualization has the power to change minds and I’m driven by the urgency of environmental issues. Since August 2020 I’ve had an internship with The Nature Conservancy’s LANDFIRE team, creating data visualizations in the programming language R with wildfire prevalence data.
+Skills in R
+○ Create ggplot and interactive leaflet choropleth maps
+○ Create bar, lollipop, and sankey charts, among others
+○ Parameterize charts to create multiple iterations
+○ Sort and wrangle data"
 
   button:
     enable : true
