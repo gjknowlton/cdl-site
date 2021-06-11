@@ -1,0 +1,17 @@
+---
+title: "Celeste Basken"
+image: "images/alice.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:celeste.basken@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I think it's cool and I'm a kool kat
