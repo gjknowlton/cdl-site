@@ -1,6 +1,6 @@
 ---
 title: "Celeste Basken"
-image: "images/alice.jpeg"
+image: "tobi.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
@@ -14,4 +14,4 @@ output:
   postcards::jolla
 ---
  
-I think it's cool and I'm a kool kat
+Check out these swankified links
