@@ -6,10 +6,10 @@ links:
     url: "https://smvmt.org/ss-sign-up"
   - label: Read the news (please not Instagram graphics)
     url: "https://www.nytimes.com/"
-  - label: BNC
+  - label: Watch BNC
     url: "https://bnconline.net/"
-  - label: My website
-    url: "https://celestebasken.com/"
+  - label: Come protest for climate reform on June 28!
+    url: "https://action.sunrisemovement.org/a/june-28-dc-signup"
 output:
   postcards::jolla
 ---
