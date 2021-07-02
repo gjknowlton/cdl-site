@@ -8,8 +8,10 @@ links:
     url: "https://www.nytimes.com/"
   - label: Watch BNC
     url: "https://bnconline.net/"
-  - label: Come protest for climate reform on June 28!
-    url: "https://action.sunrisemovement.org/a/june-28-dc-signup"
+  - label: Get involved with a Day of Action July 15!
+    url: "https://www.sunrisemovement.org/july-15th-national-day-of-action/?ms=twitter"
+  - label: Sign the Sunrise petition for Good Jobs for All.
+    url: "https://www.mobilize.us/sunrisemovement/event/395580/?utm_source=event-map&utm_content=list"
 output:
   postcards::jolla
 ---
