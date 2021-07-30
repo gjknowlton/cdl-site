@@ -19,7 +19,7 @@
 - id: read_more
   translation: Continue Reading
 - id: latest_posts
-  translation: Notable publications
+  translation: Recent publications
 - id: page_prev
   translation: Prev
 - id: page_next

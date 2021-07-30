@@ -4,10 +4,10 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "Celeste Basken"
-  content : "Rising high school senior, executive producer of my high school's film program, The Nature Conservancy intern, environmental activist and more."
+  content : "Rising high school senior, executive producer of my high school's film program, environmental activist and more."
   button:
     enable : true
-    label : "Contact me"
+    label : "My LinkedIn"
     link : "contact" #was project
 
 ############################# About #################################
@@ -15,7 +15,7 @@ about:
   enable : true
   title : "This portfolio serves as a collection of my academic, extracurricular and general interests."
   description : ""
-  content : "I'm passionate about the intersection between science and communication, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate movements like the Sunrise Movement to hold power to account for issues I care about.
+  content : "I'm passionate about the <b>intersection between science and communication</b>, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate movements like the Sunrise Movement to hold power to account for issues I care about.
   
   I created this website in the computer programming language R using a [Hugo Blogdown theme](https://themes.gohugo.io/airspace-hugo/). To read more about my programming experience, please check out the [environmental science page.](https://celestebasken.com/about/)"
   image : "images/wrapper-img.png"
@@ -31,6 +31,14 @@ portfolio:
     enable : true
     label : "Take a look"
     link : "project"
+
+############################# More #################################
+more:
+  enable : true
+  title : "Experience"
+  description : ""
+  content : "I've had the privilege of exploring my interests through internships with The Nature Conservancy, in the Curious Science Writers program, and others."
+  image : "images/trees.JPG"
 
 ############################ call to action ###########################
 cta:
