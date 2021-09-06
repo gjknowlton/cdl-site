@@ -15,8 +15,8 @@ about:
   enable : true
   title : "This portfolio serves as a collection of my academic, extracurricular and general interests."
   description : ""
-  content : "I'm passionate about the <b>intersection between science and communication</b>, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate movements like the Sunrise Movement to hold power to account for issues I care about.
-  
+  content : "I'm passionate about the <b>intersection between science and communication</b>, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate activism in the Sunrise Movement to hold power to account for issues I care about.
+  <br><br>
   I created this website in the computer programming language R using a [Hugo Blogdown theme](https://themes.gohugo.io/airspace-hugo/). To read more about my programming experience, please check out the [environmental science page.](https://celestebasken.com/about/)"
   image : "images/me/wrapper-img.png"
 
@@ -37,7 +37,7 @@ more:
   enable : true
   title : "Professional Experience"
   description : ""
-  content : "I've been fortunate to explore my interested in a variety of applied internships. I currently intern in the aquaponics lab at the University of Maryland, assisting graduate research. Previously, I held a yearlong virtual internship with The Nature Conservancy programming in the computer language R. This past summer, I graduated from UMD's Ag Discovery program where I took a 3-credit course on agriculture and environmental science. I wrote feature articles in the Curious Science Writers program internship with The National Institutes of Health about biomedical research studies."
+  content : "I've been fortunate to explore my interested in a variety of applied internships. I currently intern in the aquaponics lab at the University of Maryland, assisting graduate research. Previously, I held a yearlong virtual internship with The Nature Conservancy programming in the computer language R. This past summer, I graduated from UMD's Ag Discovery program where I took a 3-credit course on agriculture and environmental science. I've also written feature articles in the Curious Science Writers program internship with The National Institutes of Health about biomedical research studies."
   image : "images/trees.JPG"
 
 ############################ call to action ###########################
