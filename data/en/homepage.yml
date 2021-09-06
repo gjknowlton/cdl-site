@@ -4,7 +4,7 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "Celeste Basken"
-  content : "High school senior, executive producer of my high school's film program, environmental activist and more."
+  content : "High school senior, UMD hydroponics lab intern, executive producer of my high school's film program, environmental activist and more."
   button:
     enable : true
     label : "My LinkedIn"
@@ -54,7 +54,7 @@ cta:
     
 ############################# Service ############################
 service:
-  enable : true
+  enable : false
   # service content comes from "data/*/service.yml" file
 
 

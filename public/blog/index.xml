@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Celeste Basken</title>
+    <title>Portfolio on Celeste Basken</title>
     <link>/blog/</link>
-    <description>Recent content in Publications on Celeste Basken</description>
+    <description>Recent content in Portfolio on Celeste Basken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Celeste Basken 2021</copyright>
@@ -14,8 +14,17 @@
       <pubDate>Fri, 05 Mar 2021 11:07:10 +0600</pubDate>
       
       <guid>/blog/ialeconference/</guid>
-      <description>I gave a Poster Presentation at the International Associate of Landscape Ecology, North America, conference in April 2021.
-Orders of Magnitude: Changes in Area Burned Per Year in the NE United States Dropped from Millions to Thousands of Acres Per Year</description>
+      <description>I presented original research at the International Associate of Landscape Ecology, North America, conference in April 2021.
+My poster presentation was the culmination of a yearlong virtual internship with The Nature Conservancy, where I learned the programming language R and software GIS in order to create data visualizations of data about historic fire amounts in North America.</description>
+    </item>
+    
+    <item>
+      <title>Film Collaboration; Coming of Age in a Pandemic</title>
+      <link>/blog/film-collaboration/</link>
+      <pubDate>Wed, 03 Mar 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/blog/film-collaboration/</guid>
+      <description>As the head of SilverLens, my school&amp;rsquo;s documentary film program, I fascilitated a collaboration with other high schools in the area to combine our content about teenage life during the coronavirus pandemic.</description>
     </item>
     
     <item>
@@ -24,17 +33,16 @@ Orders of Magnitude: Changes in Area Burned Per Year in the NE United States Dro
       <pubDate>Wed, 03 Mar 2021 11:07:10 +0600</pubDate>
       
       <guid>/blog/sunrise/</guid>
-      <description>I&amp;rsquo;ve been involved with the youth-led Sunrise Movement for two years. Recently, the team that I led within my local hub of the movement convinced our County Council and County Executive to endorse the Federal Green New Deal and call on the Biden Administration and Congress to take a strong stance on climate.</description>
+      <description>I&amp;rsquo;ve been involved with the youth-led Sunrise Movement for two years and am now a hub coordinator. In spring 2021, the team that I led within my local hub of the movement convinced our County Council and County Executive to endorse the Federal Green New Deal and call on the Biden Administration and Congress to take a strong stance on climate.</description>
     </item>
     
     <item>
-      <title>Crew Mid-Atlantic Erg Sprints 2nd Place</title>
+      <title>Crew Awards</title>
       <link>/blog/crewergsprints/</link>
       <pubDate>Tue, 02 Mar 2021 11:07:10 +0600</pubDate>
       
       <guid>/blog/crewergsprints/</guid>
-      <description>I placed second in the 500m sprint in the lightweight category at the Mid-Atlantic Erg Sprints 2020.
-This winter season crew competition involves rowing on an ergometer stationary rowing machine. Read more about my experience on Blair High School crew here.</description>
+      <description>My boat, the women&amp;rsquo;s 8+, won first place at the Capitol Sprints race in the summer of 2021. My boat also won third in the women&amp;rsquo;s 4x at the Philadelphia Youth Regatta the same summer, both for Washington Rowing School.</description>
     </item>
     
     <item>

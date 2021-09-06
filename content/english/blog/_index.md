@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-description: "Recent publications and other notable accomplishments."
+title: "Portfolio"
+description: ""
 draft: false
 bg_image: "images/capitol.jpg"
 ---
