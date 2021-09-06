@@ -1,8 +1,8 @@
 ---
-title: "Film Collaboration; Coming of Age in a Pandemic"
-date: 2021-03-03T11:07:10+06:00
+title: "Film Collaboration: Coming of Age in a Pandemic"
+date: 2021-06-29T11:07:10+06:00
 author: Celeste Basken
-image : "images/portfolio/bethesdaBeat.jpg"
+image : "images/portfolio/shortBethesdaBeat.jpg"
 bg_image: "images/featue-bg.jpg"
 categories: ["Press Conference"]
 tags: ["Leadership","Film", "News"]

@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Celeste Basken 2021</copyright>
-    <lastBuildDate>Fri, 05 Mar 2021 11:07:10 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 11:07:10 +0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Film</title>
+      <link>/tags/film/</link>
+      <pubDate>Tue, 29 Jun 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/tags/film/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>/tags/leadership/</link>
+      <pubDate>Tue, 29 Jun 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/tags/news/</link>
+      <pubDate>Tue, 29 Jun 2021 11:07:10 +0600</pubDate>
+      
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Internship</title>
       <link>/tags/internship/</link>
@@ -23,33 +50,6 @@
       <pubDate>Fri, 05 Mar 2021 11:07:10 +0600</pubDate>
       
       <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Film</title>
-      <link>/tags/film/</link>
-      <pubDate>Wed, 03 Mar 2021 11:07:10 +0600</pubDate>
-      
-      <guid>/tags/film/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leadership</title>
-      <link>/tags/leadership/</link>
-      <pubDate>Wed, 03 Mar 2021 11:07:10 +0600</pubDate>
-      
-      <guid>/tags/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>/tags/news/</link>
-      <pubDate>Wed, 03 Mar 2021 11:07:10 +0600</pubDate>
-      
-      <guid>/tags/news/</guid>
       <description></description>
     </item>
     
