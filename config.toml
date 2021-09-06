@@ -194,7 +194,7 @@ hasChildren = true
   URL = "service"
   
 [[Languages.en.menu.main]]
-name = "Brief"
+name = "Contact"
 URL = "brief"
 weight = 7
 
@@ -226,7 +226,7 @@ URL = "resume"
 weight = 5
 
 [[Languages.en.menu.footer]]
-name = "Brief"
+name = "Contact"
 URL = "brief"
 weight = 6
 

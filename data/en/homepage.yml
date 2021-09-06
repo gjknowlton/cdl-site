@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/me/celesteBackwardsYosemite.jpg"
   bg_overlay : true
   title : "Celeste Basken"
   content : "High school senior, UMD hydroponics lab intern, executive producer of my high school's film program, environmental activist and more."
@@ -18,13 +18,13 @@ about:
   content : "I'm passionate about the <b>intersection between science and communication</b>, a niche where I hope to make a difference in the realm of climate policy. I'm a documentary filmmaker who believes film is a powerful media for inspiring social change. I've found myself draw into youth climate movements like the Sunrise Movement to hold power to account for issues I care about.
   
   I created this website in the computer programming language R using a [Hugo Blogdown theme](https://themes.gohugo.io/airspace-hugo/). To read more about my programming experience, please check out the [environmental science page.](https://celestebasken.com/about/)"
-  image : "images/wrapper-img.png"
+  image : "images/me/wrapper-img.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
+  bg_image : "images/me/featue-bg.jpg"
   title : "EXPLORE MY FILMS"
   content : ""
   button:

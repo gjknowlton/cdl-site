@@ -3,7 +3,7 @@ title: "Film Collaboration: Coming of Age in a Pandemic"
 date: 2021-06-29T11:07:10+06:00
 author: Celeste Basken
 image : "images/portfolio/shortBethesdaBeat.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/me/featue-bg.jpg"
 categories: ["Press Conference"]
 tags: ["Leadership","Film", "News"]
 description: "I participated in a collaboration for films about high school students during the pandemic."
