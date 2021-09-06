@@ -11,14 +11,14 @@ about:
         <br> ○ Parameterize charts to create multiple iterations 
         <br> ○ Sort and wrangle data
         <br>
-        <br> This amazing opportunity enabled me to learn R and GIS, and it also helped me learn about different careers in environmental science and get an inside look at professional research. I concluded my internship presenting at the International Association of Landscape Ecology- North America conference (IALE 2021)."
+        <br> This amazing opportunity enabled me to learn R and GIS, and it also helped me learn about different careers in environmental science and get an inside look at professional research. The culmination of my internship was a poster presentation at the International Association of Landscape Ecology- North America conference (IALE 2021)."
 
   button:
     enable : true
-    label : "My IALE Presentation."
+    label : "My IALE Presentation"
     link : "https://celestebasken.com/blog/ialeconference/"
 
-################################## Crew #####################################
+################################## TNC #####################################
 
 TNC:
   enable : true
