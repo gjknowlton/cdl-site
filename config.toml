@@ -154,7 +154,7 @@ URL = "project"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Publications"
+name = "Portfolio"
 URL = "blog"
 weight = 4
 
@@ -211,7 +211,7 @@ URL = "project"
 weight = 2
 
 [[Languages.en.menu.footer]]
-name = "Publications & Awards"
+name = "Portfolio & Awards"
 URL = "blog"
 weight = 3
 
@@ -263,7 +263,7 @@ URL = "project"
 weight = 3
 
 [[Languages.fr.menu.main]]
-name = "Publications"
+name = "Portfolio"
 URL = "blog"
 weight = 4
 

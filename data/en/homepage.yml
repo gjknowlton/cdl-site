@@ -4,7 +4,7 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "Celeste Basken"
-  content : "Rising high school senior, executive producer of my high school's film program, environmental activist and more."
+  content : "High school senior, executive producer of my high school's film program, environmental activist and more."
   button:
     enable : true
     label : "My LinkedIn"
@@ -35,9 +35,9 @@ portfolio:
 ############################# More #################################
 more:
   enable : true
-  title : "Experience"
+  title : "Professional Experience"
   description : ""
-  content : "I've had the privilege of exploring my interests through internships with The Nature Conservancy, in the Curious Science Writers program, and others."
+  content : "I've used internships to learn more about subjects I'm interested in. I currently intern in the hydroponics lab at the University of Maryland, assisting graduate research. Previously, I held a yearlong virtual internship with The Nature Conservancy programming in the computer language R. This past summer, I graduated from UMD's Ag Discovery program where I took a 3-credit course on agriculture and environmental science. I wrote feature articles in the Curious Science Writers program internship with The National Institutes of Health about biomedical research studies."
   image : "images/trees.JPG"
 
 ############################ call to action ###########################
