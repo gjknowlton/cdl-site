@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "/"
-title = "Celeste Basken"
+title = "Conservation Data Lab"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
@@ -80,11 +80,11 @@ logo = "images/logo.png"
 logo_width = "150px"
 # Meta data
 description = ""
-author = "Celeste"
+author = "Garrett"
 # Contact Information
-mobile = "2025272712"
-email = "celeste@basken.com"
-location = "DC Metro Area"
+mobile = "5555555555"
+email = "cdl@cdl.cdl"
+location = "Marquette, Michigan"
 # contact form action
 contact_form_action = "https://formspree.io/f/xeqpbbab" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -133,7 +133,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Celeste Basken 2021"
+copyright = "CDL 2021"
 
 
 ######################### english navigation #############################
@@ -144,59 +144,54 @@ URL = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Environmental Science"
+name = "About"
 URL = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Film"
-URL = "project"
+name = "Diversity & Inclusion"
+URL = "blog"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
-URL = "blog"
 weight = 4
-
-[[Languages.en.menu.main]]
-weight = 5
-name = "Extracurriculars"
+name = "People"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Extracurriculars"
-  name = "Environmental Activism"
+  parent = "People"
+  name = "Randy"
   URL = "sunrise"
 
   [[Languages.en.menu.main]]
-  parent = "Extracurriculars"
-  name = "Crew"
+  parent = "People"
+  name = "Maddie"
   URL = "crew"
   
   [[Languages.en.menu.main]]
-  parent = "Extracurriculars"
-  name = "Model United Nations"
+  parent = "People"
+  name = "Garrett"
   URL = "mun"
   
 [[Languages.en.menu.main]]
-weight = 6
-name = "Academics"
+weight = 5
+name = "Projects"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "Academics"
-  name = "Resume"
+  parent = "Projects"
+  name = "Landfire"
   URL = "resume"
   
   [[Languages.en.menu.main]]
-  parent = "Academics"
-  name = "Diplomas"
+  parent = "Projects"
+  name = "U.P. Forests"
   URL = "service"
   
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "brief"
-weight = 7
+weight = 6
 
 
 # footer menu
@@ -242,7 +237,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Celeste Basken 2021"
+copyright = "CDL 2021"
 
 
 ######################### france navigation #############################

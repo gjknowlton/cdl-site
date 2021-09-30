@@ -1,6 +1,6 @@
 ---
-title: "Model United Nations"
+title: "Garrett Knowlton"
 description: ""
 draft: false
-bg_image: "images/blog/mun.jpg"
+bg_image: "images/blog/bat.jpg"
 ---
