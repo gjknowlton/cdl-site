@@ -76,8 +76,9 @@ sidebar = ["recent_posts", "taxonomy_category"]
 #################### default parameters ################################
 [params]
   favicon = "images/favicon.ico"
-logo = "images/logo.png"
-logo_width = "150px"
+logo = "images/cdl.jpg"
+logo_width = "60px"
+
 # Meta data
 description = ""
 author = "Garrett"
@@ -109,7 +110,6 @@ enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
 
 # cookies
 [params.cookies]
